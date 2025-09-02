@@ -25,7 +25,7 @@ Il progetto simula un piccolo shop online con:
 1. **Clona il repository**
    ```bash
    git clone https://github.com/tuo-username/react-ecommerce-shop.git
-   cd react-ecommerce-shop
+   
    ```
 
 2. **Installa le dipendenze**
