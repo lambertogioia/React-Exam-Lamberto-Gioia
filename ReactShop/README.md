@@ -9,7 +9,7 @@ Permette di visualizzare prodotti, applicare filtri, aggiungere articoli al carr
 
 Il progetto simula un piccolo shop online con:
 
-- **Home page** con lista di prodotti caricati tramite API esterna (EscuelaJS).
+- **Home page** con lista di prodotti caricati tramite API esterna (EscuelaJS). https://fakeapi.platzi.com/
 - **Filtri** per categoria, numero di prodotti per pagina e ricerca testuale.
 - **Carrello** con aggiunta/rimozione prodotti, gestione quantità e calcolo totale.
 - **Login utente e admin** con routing dedicato.
@@ -115,3 +115,5 @@ src/
 
 - Questo progetto è solo **frontend**: il login è simulato, non avviene nessuna validazione server-side.
 - Le API utilizzate (`https://api.escuelajs.co/api/v1/products/`) sono pubbliche e servono solo a scopo dimostrativo.
+
+
